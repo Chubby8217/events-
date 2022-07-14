@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]<img src="https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="9,495+ Best Free Event Stock Photos &amp; Images · 100% Royalty-Free HD  Downloads" data-noaft="1" style="width: 433px; height: 288.378px; margin: 0px;">(src)
+[Link]https://goo.gl/maps/Hw5GzLDZNSEfZGZ38(url) and ![Image]<img src="https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="9,495+ Best Free Event Stock Photos &amp; Images · 100% Royalty-Free HD  Downloads" data-noaft="1" style="width: 433px; height: 288.378px; margin: 0px;">(src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
